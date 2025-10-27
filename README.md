@@ -1,12 +1,10 @@
-# Global-freshwater-macrophytes-distribution-mechanisms-and-anthropogenic-threats-
-Data for Novel high-resolution data to unravel distribution, mechanisms and anthropogenic threats to global freshwater macrophytes
 # Dataset for 'Novel high-resolution data to unravel distribution, mechanisms and anthropogenic threats to global aquatic macrophytes'
 
-**code_aquatic
+## code_aquatic
 
 The folder contains all the plotting code for non-map figures in the main text.
 
-**MacrophytesDistribution1Degree
+## MacrophytesDistribution1Degree
 
 This folder contains all the maps used in the main text, saved in ​​SHP format​​ and compatible with ​​ArcGIS​​. To visualize the ​​1-degree grid diversity hotspot map for aquatic macrophytes​​, link the 1-degree grid map with the file ​​'species_distribtion.csv'​​. 
 
@@ -17,10 +15,10 @@ This folder contains all the maps used in the main text, saved in ​​SHP form
 
 **species_distribution.csv**The raw distribution data for each aquatic macrophytes.
 
-**species_list## The information for each aquatic macrophytes.
+**species_list** The information for each aquatic macrophytes.
 
 
-##SuppSupplementary tables
+## SuppSupplementary tables
 
 **Table S1** List of aquatic macrophytes used in this study.
 
